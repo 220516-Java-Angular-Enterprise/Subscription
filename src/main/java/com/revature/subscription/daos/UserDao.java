@@ -1,2 +1,4 @@
-package com.revature.subscription.daos;public class UserDao {
+package com.revature.subscription.daos;
+
+public class UserDao {
 }

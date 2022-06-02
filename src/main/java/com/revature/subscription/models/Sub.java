@@ -1,2 +1,4 @@
-package com.revature.subscription.models;public class Sub {
+package com.revature.subscription.models;
+
+public class Sub {
 }

@@ -1,2 +1,4 @@
-package com.revature.subscription.daos;public interface CrudDao {
+package com.revature.subscription.daos;
+
+public interface CrudDao {
 }
