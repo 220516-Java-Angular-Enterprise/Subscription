@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.revature.subscription.models;
 
 public class Sub {
@@ -57,4 +58,7 @@ public class Sub {
               ", user_id='" + user_id + '\'' +
               '}';
    }
+=======
+package com.revature.subscription.models;public class Sub {
+>>>>>>> 6284209945c9f372959f13df25b4ea59254c8356
 }

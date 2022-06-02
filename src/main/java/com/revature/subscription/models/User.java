@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.revature.subscription.models;
 
 
@@ -81,4 +82,7 @@ public class User {
                 ", email='" + email + '\'' +
                 '}';
     }
+=======
+package com.revature.subscription.models;public class user {
+>>>>>>> 6284209945c9f372959f13df25b4ea59254c8356
 }

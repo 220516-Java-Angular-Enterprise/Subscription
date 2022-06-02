@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.revature.subscription.models;
 
 public class Order {
@@ -57,4 +58,7 @@ public class Order {
                 ", subs_id='" + subs_id + '\'' +
                 '}';
     }
+=======
+package com.revature.subscription.models;public class Order {
+>>>>>>> 6284209945c9f372959f13df25b4ea59254c8356
 }
