@@ -1,9 +1,9 @@
-package com.revature.subscription.Models;
+package com.revature.subscription.models;
 
 
 
 
-public class UserSubs {
+public class User {
     private String id;
     private String username;
     private String password;
@@ -11,9 +11,9 @@ public class UserSubs {
     private String lastName;
     private String email;
 
-    public UserSubs() { super(); }
+    public User() { super(); }
 
-    public UserSubs(String id, String username, String password, String firstName, String lastName, String email) {
+    public User(String id, String username, String password, String firstName, String lastName, String email) {
         this.id = id;
         this.username = username;
         this.password = password;
